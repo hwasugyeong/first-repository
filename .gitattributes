@@ -2,7 +2,6 @@
 * text=auto
 def print_hello():
     print("Hello World!!")
-dfffff
 
 if __name__ == '__main__':
     print_hello()
